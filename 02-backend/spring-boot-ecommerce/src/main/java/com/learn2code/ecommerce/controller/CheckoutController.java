@@ -1,4 +1,4 @@
-package com.learn2code.controller;
+package com.learn2code.ecommerce.controller;
 
 import org.springframework.web.bind.annotation.*;
 import com.learn2code.ecommerce.dto.Purchase;
