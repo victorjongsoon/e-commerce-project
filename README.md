@@ -62,7 +62,7 @@ User's orders will be updated to the database accordingly
 4. Order History Tracking
 
 # Skillset required for the project
-* HTML, CSS, Typescript
+* HTML, CSS (Bootstrap), Typescript
 * Java
 * Angular
 * Lombok
