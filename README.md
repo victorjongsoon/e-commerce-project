@@ -39,12 +39,14 @@ User is required to provide their personal and payment details to make a purcahs
 <br />
 ![Image of Checkout Page](https://github.com/victorjongsoon/e-commerce-project/blob/master/github-images/Checkout-Page-2.PNG)
 
-## 6 - Order Success 
+## 6 - Order Success
+Once user provide the correct personal and payment details, a successful purchase alert will pop up to show user their order tracking number.
 <br />
 <br />
 ![Image of Order Success Page](https://github.com/victorjongsoon/e-commerce-project/blob/master/github-images/Order-Success-Page.PNG)
 
 ## 7 - Database Update
+User's orders will be updated to the database accordingly
 <br />
 <br />
 ![Pushing to db1](https://github.com/victorjongsoon/e-commerce-project/blob/master/github-images/db-customer.PNG)
@@ -57,6 +59,7 @@ User is required to provide their personal and payment details to make a purcahs
 1. Login & Logout
 2. Payment methods
 3. Products Feedback
+4. Order History Tracking
 
 # Skillset required for  the project
 * HTML, CSS, Typescript
