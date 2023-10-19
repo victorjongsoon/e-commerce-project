@@ -61,7 +61,18 @@ User's orders will be updated to the database accordingly
 3. Products Feedback
 4. Order History Tracking
 
-# Skillset required for  the project
+# Skillset required for the project
 * HTML, CSS, Typescript
 * Java
 * Angular
+* Lombok
+
+# Software version & documentation
+* java 11.0.20 2023-07-18 LTS
+* Apache Maven 3.9.4
+* Spring Boot 3.1.4
+* Typescript 5.2.2
+* Node v16.20.2
+* Angular CLI 14.0.7
+* npm 8.19.4
+  
