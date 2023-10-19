@@ -24,11 +24,14 @@ User can view product details.
 ![Image of Product Details](https://github.com/victorjongsoon/e-commerce-project/blob/master/github-images/Product-Details.PNG)
 
 ## 4 - Adding products to Shopping Cart 
+User can add their products to the shopping cart. In the shopping cart, user can update their product quantity, and view the shipping fee & total price.
 <br />
 <br />
 ![Image of Shopping Cart Page](https://github.com/victorjongsoon/e-commerce-project/blob/master/github-images/Shopping-Cart-Page.PNG)
 
 ## 5 - Checkout Page
+User is required to provide their personal and payment details to make a purcahse. Form validations such as required fields, email format,
+16 digits credit card number and 3 digits security code are done to ensure data accuracy.
 <br />
 <br />
 ![Image of Checkout Page](https://github.com/victorjongsoon/e-commerce-project/blob/master/github-images/Checkout-Page.PNG)
